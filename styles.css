@@ -117,6 +117,9 @@ h1{
 	display:flex;
 	margin-left:650px;
 }
+.link-boxes{
+	display:flex;
+}
 body {
   background-color: lightblue;
 }
