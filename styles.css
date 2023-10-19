@@ -1,1 +1,63 @@
 /* your code here */
+
+.content{
+	width:100vw;
+	height:70vh;
+	background-color:black;
+}
+.footer{
+	display:flex;
+}
+.sec1{
+	margin-inline:30px;
+}
+.sec2{
+	margin-inline:10px;
+	
+}
+.sec3{
+	margin-inline:10px;
+}
+.sec4{
+	margin-inline:10px;
+}
+.p1{
+	color:white;
+	font-family:arial;
+}
+.p2{
+	color:white;
+	font-family:arial;
+}
+.p3{
+	color:white;
+	font-family:arial;
+}
+.p4{
+	color:white;
+	font-family:arial;
+}
+.h1{
+	text-decoration:none;
+	font-family:cursive;
+	color:red;
+}
+.h2{
+	text-decoration:none;
+	font-family:cursive;
+	color:red;
+}
+.h3{
+	text-decoration:none;
+	font-family:cursive;
+	color:red;
+}
+.h4{
+	text-decoration:none;
+	font-family:cursive;
+	color:red;
+}
+h1{
+	color:white;
+	margin-left:30px;
+}
